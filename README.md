@@ -35,7 +35,7 @@ A high-performance C++ simulator designed to model non-forested vegetation succe
 
 ### 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlank&show_icons=true&theme=nord&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="profile/stats.svg" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlank&layout=compact&theme=nord&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
 </p>
 
