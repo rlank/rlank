@@ -1,4 +1,4 @@
-# Hi, I'm Robb Lankston 👋
+# Robb Lankston, b<sup>2</sup>
 
 I am an ecological software developer, spatial data scientist, and the owner of **Lankston Consulting, LLC** based in Seattle, WA. I design custom software, cloud pipelines, and machine learning models to solve complex natural resource management and ecological questions at scale.
 
