@@ -24,6 +24,15 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
           include_private: true
 
+      - name: Generate languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: languages
+          options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark&langs_count=6
+          path: profile/languages.svg
+          token: ${{ secrets.STATS_TOKEN }}
+          include_private: true
+
       - name: Commit cards
         run: |
           git config user.name "github-actions"
