@@ -25,15 +25,15 @@ I am an ecological software developer, spatial data scientist, and the owner of 
   </tr>
 </table>
 
-### 🚀 Flagship Projects
+### Flagship Projects
 
-#### 🌾 [Fuelcast](https://fuelcast.net/)
+####  [Fuelcast](https://fuelcast.net/)
 An advanced projection tool utilizing remote sensing and machine learning to map near real-time rangeland forage production and fuel conditions across the Western US. Helps managers and fire specialists predict grazing capacity and fire hazards.
 
-#### 🌲 [RVS (Rangeland Vegetation Simulator)](https://github.com/rlank/RVS)
+####  [RVS (Rangeland Vegetation Simulator)](https://github.com/rlank/RVS)
 A high-performance C++ simulator designed to model non-forested vegetation succession, biomass, fuel characteristics, and fire/grazing disturbances. It integrates directly with the U.S. Forest Service's **Forest Vegetation Simulator (FVS)** to provide comprehensive landscape-level projections.
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 <p align="left">
   <img src="profile/stats.svg" height="150" alt="GitHub Stats" />
   <img src="profile/top-langs.svg" height="150" alt="Top Languages" />
